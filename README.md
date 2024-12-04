@@ -1,0 +1,1 @@
+This bug demonstrates a common error in TypeScript related to function parameters and object types. The function `printCoord` expects an object with properties `x` and `y`, both of type number.  The provided argument is missing the y property. The solution will showcase different ways to correct this error.
